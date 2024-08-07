@@ -55,7 +55,7 @@ function createHeart() {
 
 // Function to change the text
 const messages = [
-    "The longer I'm with you  the more I love you",
+    "The longer I'm with you the more I love you",
     "I’m always here for you, no matter how busy you get. Just remember, you’ve got this!",
     "Even when things get overwhelming, know that I’m cheering you on every step of the way.",
     "You’re doing an amazing job, and I’m proud of you. I’m here to support you through it all.",
