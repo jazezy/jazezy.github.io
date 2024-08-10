@@ -118,11 +118,12 @@ body {
 }
 
 /* Heart styles */
+/* Heart styles */
 .loader {
     width: 7em;
     height: 7em; /* Maintain aspect ratio for hearts */
     position: absolute;
-    animation: float 100s infinite ease-in-out; /* Increased animation duration for slower movement */
+    animation: float 80s infinite ease-in-out; /* Slow down the animation */
     transform: translateY(100vh); /* Start from the bottom */
 }
 
