@@ -82,7 +82,7 @@ const messages = [
     "natatakot ako na baka may magawa ako na tapos mawalan ka ng gana",
     "kaya lagi ako nag pe-pray kay God na sana i guide nya ako palagi sa mga actions ko",
     "I look forward to all the dreams we’ve yet to chase together, the places we’ll explore, and the memories we’ll create.",
-    "I Love You"
+    "Everyday I'm only thinking about you"
 ];
 
 let currentIndex = 0;
